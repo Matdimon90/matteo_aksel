@@ -3,7 +3,7 @@
 # F1 Track Personality 2020–2025
 
 **Authors:** Matteo Asscher & Aksel
-**Course:** Foundations of Data Projects — Albert School (Prof. Jaime Aznar)
+**Course:** Foundations of Data Projects
 
 A six-season analysis of constructor–circuit affinity in Formula 1. We ask whether
 certain constructors systematically over- or under-perform at specific circuits,
